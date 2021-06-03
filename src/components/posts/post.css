@@ -1,0 +1,36 @@
+.postDiv{
+    display: flex;
+    flex-direction:column;
+    width:100%;
+
+}
+.form{
+    text-align: center;
+    width: 50%;
+    height: 75px;
+    background-color: #d8e0e8;
+    display: flex;
+ border: 2px solid black;;
+    flex-direction:row;
+    align-self:center;
+    margin-top: 5px;
+}
+
+.btnDiv{
+    display: flex;
+    flex-direction:row;
+margin-top: 35px;
+margin-left: 175px;
+
+}
+.btn{
+    border-radius: 20px;
+    
+    height:25px;
+ 
+}
+h1{
+    
+    font-size: 35px;
+    margin-left: 15px;
+}
